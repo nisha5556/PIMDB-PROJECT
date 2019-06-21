@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+\title {Inroduction to \LaTeX{}}
+\author{the profes}
+\maketitle
+\begin{abstract}
+This is the AB for my DB
+\end{abstract}
+\section{Introduction}
+\subsection{javascript coding design}
+\subsubsection{JS object used in this application}
+\section{conclusion}
+I really love latex!
+
+\end{document}
